@@ -28,7 +28,7 @@
 <p>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git Engine&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
      <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=Gerrit&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp 

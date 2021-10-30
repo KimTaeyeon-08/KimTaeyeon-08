@@ -5,9 +5,8 @@
 <br/>
 
 ## ✨  ABOUT ME ✨
-- 👩‍💻  CS student 
-- 🔭 I’m currently CS student
-- 🌱 I’m currently studying about Game and Frontend 
+- 👩‍💻  I’m currently CS student
+- 🌱 I’m currently studying about Game(VR/AR) and Frontend 
 
 </br>
 

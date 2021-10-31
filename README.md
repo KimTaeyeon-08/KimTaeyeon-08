@@ -6,7 +6,7 @@
 
 ## ✨  ABOUT ME ✨
 - 👩‍💻  I’m currently CS student
-- 🌱 I’m currently studying about Game(VR/AR) and Frontend 
+- 🌱 I’m currently studying Game(VR/AR) and Frontend 
 
 </br>
 
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   </p>
   
-  ### TOOLS
+  ### TOOL
 <p>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>&nbsp 

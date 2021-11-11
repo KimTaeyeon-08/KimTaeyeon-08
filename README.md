@@ -57,6 +57,7 @@
 
 - Contribute Chromium in OpenSource Contribution <a href="https://chromium-review.googlesource.com/dashboard/self/" target="_blank"><img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
 - MoGakKo Acvitivities  <a href="https://cafe.naver.com/codeuniv?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30026525%2526articleid%3D46667/" target="_blank"><img src="https://img.shields.io/badge/Mogakko-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+- Editor for CWN (TECH/GAME) <a href="https://cms.codingworldnews.com/news/userWriterArticleView.html?idxno=6781" target="_blank"><img src="https://img.shields.io/badge/-CWN-red?style=flat-sqaure&logo=CWN%logoColor=white"/></a>
 </br>
 
 ## 👩 More about Me 👩

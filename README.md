@@ -6,7 +6,7 @@
 
 ## ✨  ABOUT ME ✨
 - 👩‍💻  I’m currently CS student
-- 🌱 I’m currently studying Game(VR/AR) , Frontend , 
+- 🌱 I’m currently studying Game(VR/AR),Frontend,Android
 
 </br>
 

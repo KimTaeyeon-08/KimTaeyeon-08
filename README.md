@@ -6,7 +6,7 @@
 
 ## ✨  ABOUT ME ✨
 - 👩‍💻  I’m currently CS student
-- 🌱 I’m currently studying Game(VR/AR) and Frontend 
+- 🌱 I’m currently studying Game(VR/AR) , Frontend , 
 
 </br>
 
@@ -53,6 +53,11 @@
 
 </br>
 
+## 🏆 MY Awards 🏆
+
+- INTIN Industry 4.0 Contest/ Excellence Award
+- 2021 Open Source Contribution Academy/ Excellence Award from Korea Information and Communication Industry 
+
 ## 🎇 My Activities 🎇
 
 - Contribute Chromium in OpenSource Contribution <a href="https://chromium-review.googlesource.com/dashboard/self/" target="_blank"><img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
@@ -63,7 +68,7 @@
 ## 👩 More about Me 👩
 
 <a href="https://whatamidoingnow79.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://helix-mandolin-236.notion.site/e6cdd1e268e34b3388b89dd5d4455599/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://kimtaeyeon08.creatorlink.net/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 </p>
 

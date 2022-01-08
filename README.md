@@ -53,7 +53,7 @@
 
 </br>
 
-## 🏆 MY Awards 🏆
+## 🏆 My Awards 🏆
 
 - INTIN Industry 4.0 Contest/ Excellence Award
 - 2021 Open Source Contribution Academy/ Excellence Award from Korea Information and Communication Industry 

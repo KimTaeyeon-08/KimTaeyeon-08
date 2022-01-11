@@ -57,7 +57,7 @@
 
 - INTIN Industry 4.0 Contest/ Excellence Award
 - 2021 Open Source Contribution Academy/ Excellence Award from Korea Information and Communication Industry 
-- 
+
 ## 🎇 My Activities 🎇
 
 - Contribute Chromium in OpenSource Contribution <a href="https://chromium-review.googlesource.com/dashboard/self/" target="_blank"><img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/></a>
